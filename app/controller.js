@@ -10,16 +10,6 @@ export const readAll = async (req, res) => {
   res.status(200).json(data).end();
 };
 
-export const readTrendings = async (req, res) => {
-  const response = await fetch(
-    "https://pro-api.coinmarketcap.com/v1/cryptocurrency/trending/latest",
-    { headers: { "X-CMC_PRO_API_KEY": "21c7dee4-29ae-4443-a620-d0bfbfcfc8ea" } }
-  );
-  const data = await response.json();
-
-  res.status(200).json(data).end();
-};
-
 export const readOneInfo = async (req, res) => {
   const response = await fetch(
     `https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?` +
