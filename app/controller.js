@@ -45,7 +45,7 @@ export const readOnePrice = async (req, res) => {
 
 export const readTopTwenty = async (req, res) => {
   // const response = await fetch(
-  //   "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=20",
+  //   `https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=20&convert=${req.query.convert}`,
   //   { headers: { "X-CMC_PRO_API_KEY": "21c7dee4-29ae-4443-a620-d0bfbfcfc8ea" } }
   // );
   // const data = await response.json();
