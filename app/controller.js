@@ -6,25 +6,24 @@ import topTwenty from "../fake-data/topTwenty.json";
 
 export const readPricesFromCategory = async (req, res) => {
   // const response = await fetch(
-  //   "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?cryptocurrency_type=" +
-  //     new URLSearchParams({ category: req.params.category }),
+  //   "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?" +
+  //     new URLSearchParams({ cryptocurrency_type: req.params.category }),
   //   { headers: { "X-CMC_PRO_API_KEY": "21c7dee4-29ae-4443-a620-d0bfbfcfc8ea" } }
   // );
   // const data = await response.json();
-
   // res.status(200).json(data).end();
-  res.status(200).send(allPrices);
+  // res.status(200).send(allPrices);
 };
 
 export const readOneMetaData = async (req, res) => {
-  // const response = await fetch(
-  //   "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?" +
-  //     new URLSearchParams({
-  //       id: req.params.id,
-  //     }),
-  //   { headers: { "X-CMC_PRO_API_KEY": "21c7dee4-29ae-4443-a620-d0bfbfcfc8ea" } }
-  // );
-  // const data = await response.json();
+  const response = await fetch(
+    "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?" +
+      new URLSearchParams({
+        id: req.params.id,
+      }),
+    { headers: { "X-CMC_PRO_API_KEY": "21c7dee4-29ae-4443-a620-d0bfbfcfc8ea" } }
+  );
+  const data = await response.json();
 
   // res.status(200).json(data).end();
   res.status(200).send(oneMetaData);
