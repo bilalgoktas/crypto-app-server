@@ -1,4 +1,5 @@
-# Cryptocurrencies Data App Server
+# Cryptocurrencies Data API Server
+Data taken from coinmarketcap.com
 
 ### Please run the server with ``--experimental-json-modules`` flag as it contains imported json files.
 
