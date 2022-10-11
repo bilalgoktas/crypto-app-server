@@ -175,6 +175,38 @@
                     "fully_diluted_market_cap": 404237511508.21,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 17413.55732599853,
+                    "volume_24h": 22357763788.15708,
+                    "volume_change_24h": 46.9616,
+                    "percent_change_1h": 0.03533646,
+                    "percent_change_24h": -1.78212177,
+                    "percent_change_7d": -3.92929237,
+                    "percent_change_30d": -9.72855546,
+                    "percent_change_60d": -21.04291222,
+                    "percent_change_90d": -3.03930133,
+                    "market_cap": 333910830094.84064,
+                    "market_cap_dominance": 39.5262,
+                    "fully_diluted_market_cap": 365684703845.9668,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 19828.288889627453,
+                    "volume_24h": 25458106636.014957,
+                    "volume_change_24h": 46.9616,
+                    "percent_change_1h": -0.02460388,
+                    "percent_change_24h": -2.03070653,
+                    "percent_change_7d": -3.12267888,
+                    "percent_change_30d": -9.72855546,
+                    "percent_change_60d": -21.04291222,
+                    "percent_change_90d": -3.03930133,
+                    "market_cap": 380214121591.9622,
+                    "market_cap_dominance": 39.5262,
+                    "fully_diluted_market_cap": 416394066682.1739,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -234,6 +266,38 @@
                     "fully_diluted_market_cap": 4473755244.66,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 48.1159701976274,
+                    "volume_24h": 335117863.79960215,
+                    "volume_change_24h": 45.0965,
+                    "percent_change_1h": -0.04391548,
+                    "percent_change_24h": -1.35111441,
+                    "percent_change_7d": -3.59050787,
+                    "percent_change_30d": -16.76530973,
+                    "percent_change_60d": -15.09055301,
+                    "percent_change_90d": 9.14518118,
+                    "market_cap": 3433305128.5948715,
+                    "market_cap_dominance": 0.4064,
+                    "fully_diluted_market_cap": 4041741496.5975857,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 54.78819401586881,
+                    "volume_24h": 381588534.2148096,
+                    "volume_change_24h": 45.0965,
+                    "percent_change_1h": -0.10380833,
+                    "percent_change_24h": -1.60079003,
+                    "percent_change_7d": -2.78104994,
+                    "percent_change_30d": -16.76530973,
+                    "percent_change_60d": -15.09055301,
+                    "percent_change_90d": 9.14518118,
+                    "market_cap": 3909400282.8692555,
+                    "market_cap_dominance": 0.4064,
+                    "fully_diluted_market_cap": 4602208297.329432,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -303,6 +367,38 @@
                     "fully_diluted_market_cap": 52322351619.38,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:37:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.473997208135715,
+                    "volume_24h": 2089978507.6389782,
+                    "volume_change_24h": 52.7,
+                    "percent_change_1h": 0.60065782,
+                    "percent_change_24h": -1.44932897,
+                    "percent_change_7d": 11.69879772,
+                    "percent_change_30d": 47.77060102,
+                    "percent_change_60d": 37.7300967,
+                    "percent_change_90d": 67.05010809,
+                    "market_cap": 23632825685.319195,
+                    "market_cap_dominance": 2.7975,
+                    "fully_diluted_market_cap": 47399720813.57432,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.5397262259423433,
+                    "volume_24h": 2379795055.4713454,
+                    "volume_change_24h": 52.7,
+                    "percent_change_1h": 0.54037874,
+                    "percent_change_24h": -1.69875602,
+                    "percent_change_7d": 12.63662527,
+                    "percent_change_30d": 47.77060102,
+                    "percent_change_60d": 37.7300967,
+                    "percent_change_90d": 67.05010809,
+                    "market_cap": 26909980895.580536,
+                    "market_cap_dominance": 2.7975,
+                    "fully_diluted_market_cap": 53972622594.23754,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -382,6 +478,38 @@
                     "fully_diluted_market_cap": 8043368137.25,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.05473701800444182,
+                    "volume_24h": 206077256.81048065,
+                    "volume_change_24h": 36.5755,
+                    "percent_change_1h": 0.00803316,
+                    "percent_change_24h": -3.01003278,
+                    "percent_change_7d": -2.21701089,
+                    "percent_change_30d": -5.97676209,
+                    "percent_change_60d": -15.806335,
+                    "percent_change_90d": -1.81398905,
+                    "market_cap": 7262002014.146359,
+                    "market_cap_dominance": 0.8604,
+                    "fully_diluted_market_cap": 7262002014.142241,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.06232738007692382,
+                    "volume_24h": 234653913.90876237,
+                    "volume_change_24h": 36.5755,
+                    "percent_change_1h": -0.05189082,
+                    "percent_change_24h": -3.25550976,
+                    "percent_change_7d": -1.39602103,
+                    "percent_change_30d": -5.97676209,
+                    "percent_change_60d": -15.806335,
+                    "percent_change_90d": -1.81398905,
+                    "market_cap": 8269021151.615476,
+                    "market_cap_dominance": 0.8604,
+                    "fully_diluted_market_cap": 8269021151.6107855,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -461,6 +589,38 @@
                     "fully_diluted_market_cap": 2656300265.89,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 130.99098621399398,
+                    "volume_24h": 58159835.74636249,
+                    "volume_change_24h": 28.589,
+                    "percent_change_1h": 0.00632996,
+                    "percent_change_24h": -2.11970878,
+                    "percent_change_7d": 0.36720727,
+                    "percent_change_30d": -8.65099614,
+                    "percent_change_60d": -10.67248829,
+                    "percent_change_90d": 13.70746405,
+                    "market_cap": 2382134489.8985415,
+                    "market_cap_dominance": 0.2819,
+                    "fully_diluted_market_cap": 2382134489.8963614,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 149.15545789776434,
+                    "volume_24h": 66224838.691081725,
+                    "volume_change_24h": 28.589,
+                    "percent_change_1h": -0.053593,
+                    "percent_change_24h": -2.36743913,
+                    "percent_change_7d": 1.20989433,
+                    "percent_change_30d": -8.65099614,
+                    "percent_change_60d": -10.67248829,
+                    "percent_change_90d": 13.70746405,
+                    "market_cap": 2712464199.898635,
+                    "market_cap_dominance": 0.2819,
+                    "fully_diluted_market_cap": 2712464199.896152,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -525,6 +685,38 @@
                     "fully_diluted_market_cap": 6293874347.27,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.11432171215019758,
+                    "volume_24h": 132730733.67172655,
+                    "volume_change_24h": -9.8416,
+                    "percent_change_1h": -0.16853741,
+                    "percent_change_24h": -1.93351529,
+                    "percent_change_7d": 5.51705384,
+                    "percent_change_30d": 10.3607728,
+                    "percent_change_60d": 0.74749704,
+                    "percent_change_90d": 23.47609793,
+                    "market_cap": 2920377966.73754,
+                    "market_cap_dominance": 0.3457,
+                    "fully_diluted_market_cap": 5716292165.355162,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.13017466175544734,
+                    "volume_24h": 151136455.49297792,
+                    "volume_change_24h": -9.8416,
+                    "percent_change_1h": -0.22835559,
+                    "percent_change_24h": -2.18171689,
+                    "percent_change_7d": 6.40297922,
+                    "percent_change_30d": 10.3607728,
+                    "percent_change_60d": 0.74749704,
+                    "percent_change_90d": 23.47609793,
+                    "market_cap": 3325345700.899418,
+                    "market_cap_dominance": 0.3457,
+                    "fully_diluted_market_cap": 6508968288.917774,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -620,6 +812,38 @@
                     "fully_diluted_market_cap": 70145816333.51,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.9050738995472879,
+                    "volume_24h": 30682518231.66559,
+                    "volume_change_24h": 49.005,
+                    "percent_change_1h": -0.10990144,
+                    "percent_change_24h": -0.47546221,
+                    "percent_change_7d": -2.39751125,
+                    "percent_change_30d": -0.02667494,
+                    "percent_change_60d": -0.03318818,
+                    "percent_change_90d": 0.07615157,
+                    "market_cap": 61881585127.04988,
+                    "market_cap_dominance": 7.3233,
+                    "fully_diluted_market_cap": 63487427619.988976,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 1.0305801629568079,
+                    "volume_24h": 34937251703.90138,
+                    "volume_change_24h": 49.005,
+                    "percent_change_1h": -0.16975476,
+                    "percent_change_24h": -0.72735407,
+                    "percent_change_7d": -1.57803687,
+                    "percent_change_30d": -0.02667494,
+                    "percent_change_60d": -0.03318818,
+                    "percent_change_90d": 0.07615157,
+                    "market_cap": 70462681683.95969,
+                    "market_cap_dominance": 7.3233,
+                    "fully_diluted_market_cap": 72291205762.3625,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -799,7 +1023,40 @@
                     "fully_diluted_market_cap": 160660580609.44,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 1182.1193220409411,
+                    "volume_24h": 7568003797.359392,
+                    "volume_change_24h": 53.0924,
+                    "percent_change_1h": -0.05622597,
+                    "percent_change_24h": -1.86742479,
+                    "percent_change_7d": -3.88410805,
+                    "percent_change_30d": -24.0567417,
+                    "percent_change_60d": -31.3072544,
+                    "percent_change_90d": 21.44586948,
+                    "market_cap": 145089409815.86874,
+                    "market_cap_dominance": 17.1836,
+                    "fully_diluted_market_cap": 145089409815.873,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 1346.0433718757272,
+                    "volume_24h": 8617456089.101246,
+                    "volume_change_24h": 53.0924,
+                    "percent_change_1h": -0.11611144,
+                    "percent_change_24h": -2.11579366,
+                    "percent_change_7d": -3.0771152,
+                    "percent_change_30d": -24.0567417,
+                    "percent_change_60d": -31.3072544,
+                    "percent_change_90d": 21.44586948,
+                    "market_cap": 165208904694.01135,
+                    "market_cap_dominance": 17.1836,
+                    "fully_diluted_market_cap": 165208904694.0162,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
+                
             }
         },
         "1321": {
@@ -868,6 +1125,38 @@
                     "fully_diluted_market_cap": 5352728355.28,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 23.17928839899847,
+                    "volume_24h": 339267469.1371467,
+                    "volume_change_24h": 32.3863,
+                    "percent_change_1h": -0.71756269,
+                    "percent_change_24h": -5.71347323,
+                    "percent_change_7d": -8.92461819,
+                    "percent_change_30d": -33.38700743,
+                    "percent_change_60d": -40.90848083,
+                    "percent_change_90d": 79.54739883,
+                    "market_cap": 3182665860.339204,
+                    "market_cap_dominance": 0.3767,
+                    "fully_diluted_market_cap": 4883876065.669992,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 26.393551761255488,
+                    "volume_24h": 386313563.79207635,
+                    "volume_change_24h": 32.3863,
+                    "percent_change_1h": -0.7770519,
+                    "percent_change_24h": -5.95210793,
+                    "percent_change_7d": -8.15994566,
+                    "percent_change_30d": -33.38700743,
+                    "percent_change_60d": -40.90848083,
+                    "percent_change_90d": 79.54739883,
+                    "market_cap": 3624004959.8448005,
+                    "market_cap_dominance": 0.3767,
+                    "fully_diluted_market_cap": 5561121356.097687,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -947,6 +1236,38 @@
                     "fully_diluted_market_cap": 2388673047.43,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 103.64815082040181,
+                    "volume_24h": 153514375.82887676,
+                    "volume_change_24h": 6.6646,
+                    "percent_change_1h": -0.04907266,
+                    "percent_change_24h": -3.31668247,
+                    "percent_change_7d": -3.67274058,
+                    "percent_change_30d": -12.61107179,
+                    "percent_change_60d": -21.07325779,
+                    "percent_change_90d": 14.52732784,
+                    "market_cap": 1989751689.7256472,
+                    "market_cap_dominance": 0.2355,
+                    "fully_diluted_market_cap": 2176611167.2307863,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 118.02100161775856,
+                    "volume_24h": 174802157.632732,
+                    "volume_change_24h": 6.6646,
+                    "percent_change_1h": -0.10896243,
+                    "percent_change_24h": -3.56138334,
+                    "percent_change_7d": -2.86397308,
+                    "percent_change_30d": -12.61107179,
+                    "percent_change_60d": -21.07325779,
+                    "percent_change_90d": 14.52732784,
+                    "market_cap": 2265669821.7313943,
+                    "market_cap_dominance": 0.2355,
+                    "fully_diluted_market_cap": 2478441033.975604,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1026,6 +1347,38 @@
                     "fully_diluted_market_cap": 54980423526.75,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 248.10972777306694,
+                    "volume_24h": 598400812.4246664,
+                    "volume_change_24h": 10.0798,
+                    "percent_change_1h": -0.0785233,
+                    "percent_change_24h": -2.21851283,
+                    "percent_change_7d": -7.29208044,
+                    "percent_change_30d": -6.54783314,
+                    "percent_change_60d": -16.23285529,
+                    "percent_change_90d": 20.77491544,
+                    "market_cap": 40029343928.69213,
+                    "market_cap_dominance": 4.7384,
+                    "fully_diluted_market_cap": 49621945554.611984,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 282.5150120972824,
+                    "volume_24h": 681380832.0962172,
+                    "volume_change_24h": 10.0798,
+                    "percent_change_1h": -0.13839542,
+                    "percent_change_24h": -2.46599311,
+                    "percent_change_7d": -6.51370106,
+                    "percent_change_30d": -6.54783314,
+                    "percent_change_60d": -16.23285529,
+                    "percent_change_90d": 20.77491544,
+                    "market_cap": 45580198268.58376,
+                    "market_cap_dominance": 4.7384,
+                    "fully_diluted_market_cap": 56503002419.45488,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1080,6 +1433,38 @@
                     "fully_diluted_market_cap": 5866014278.57,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.05740663268990255,
+                    "volume_24h": 502779223.22583055,
+                    "volume_change_24h": 151.8949,
+                    "percent_change_1h": -0.06576913,
+                    "percent_change_24h": 0.93450799,
+                    "percent_change_7d": 0.96923188,
+                    "percent_change_30d": -1.21037761,
+                    "percent_change_60d": -10.39896646,
+                    "percent_change_90d": -3.02047392,
+                    "market_cap": 5300245664.833895,
+                    "market_cap_dominance": 0.6274,
+                    "fully_diluted_market_cap": 5300246519.745183,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.0653671892449378,
+                    "volume_24h": 572499432.4359052,
+                    "volume_change_24h": 151.8949,
+                    "percent_change_1h": -0.12564889,
+                    "percent_change_24h": 0.67904756,
+                    "percent_change_7d": 1.81697357,
+                    "percent_change_30d": -1.21037761,
+                    "percent_change_60d": -10.39896646,
+                    "percent_change_90d": -3.02047392,
+                    "market_cap": 6035228773.813775,
+                    "market_cap_dominance": 0.6274,
+                    "fully_diluted_market_cap": 6035229747.275296,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1215,6 +1600,38 @@
                     "fully_diluted_market_cap": 7688618759.22,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 6.841875052097402,
+                    "volume_24h": 260967515.132402,
+                    "volume_change_24h": 29.4086,
+                    "percent_change_1h": 0.20032242,
+                    "percent_change_24h": -0.99319125,
+                    "percent_change_7d": 1.18189708,
+                    "percent_change_30d": -4.22139312,
+                    "percent_change_60d": -16.17600581,
+                    "percent_change_90d": 22.27485077,
+                    "market_cap": 3363465573.452741,
+                    "market_cap_dominance": 0.3981,
+                    "fully_diluted_market_cap": 6841875052.096873,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 7.790635338890642,
+                    "volume_24h": 297155784.0813995,
+                    "volume_change_24h": 29.4086,
+                    "percent_change_1h": 0.14028322,
+                    "percent_change_24h": -1.24377276,
+                    "percent_change_7d": 2.03142431,
+                    "percent_change_30d": -4.22139312,
+                    "percent_change_60d": -16.17600581,
+                    "percent_change_90d": 22.27485077,
+                    "market_cap": 3829876102.4070754,
+                    "market_cap_dominance": 0.3981,
+                    "fully_diluted_market_cap": 7790635338.890039,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1294,6 +1711,38 @@
                     "fully_diluted_market_cap": 18639068593.75,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.3755084862973253,
+                    "volume_24h": 383678131.59160626,
+                    "volume_change_24h": 47.5906,
+                    "percent_change_1h": -0.01258847,
+                    "percent_change_24h": -2.44346117,
+                    "percent_change_7d": -5.30401725,
+                    "percent_change_30d": -18.85044856,
+                    "percent_change_60d": -23.13212912,
+                    "percent_change_90d": -4.44375236,
+                    "market_cap": 12868642853.52546,
+                    "market_cap_dominance": 1.5233,
+                    "fully_diluted_market_cap": 16897881883.382704,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.4275801094181729,
+                    "volume_24h": 436882636.4083897,
+                    "volume_change_24h": 47.5906,
+                    "percent_change_1h": -0.0725001,
+                    "percent_change_24h": -2.69037212,
+                    "percent_change_7d": -4.50894602,
+                    "percent_change_30d": -18.85044856,
+                    "percent_change_60d": -23.13212912,
+                    "percent_change_90d": -4.44375236,
+                    "market_cap": 14653132805.677946,
+                    "market_cap_dominance": 1.5233,
+                    "fully_diluted_market_cap": 19241104923.821274,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1379,6 +1828,38 @@
                     "fully_diluted_market_cap": 46071344309.26,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.9051052938609926,
+                    "volume_24h": 2846545339.6361046,
+                    "volume_change_24h": 30.777,
+                    "percent_change_1h": -0.10781521,
+                    "percent_change_24h": -0.46292333,
+                    "percent_change_7d": -2.3926041,
+                    "percent_change_30d": 0.00804367,
+                    "percent_change_60d": 0.00814994,
+                    "percent_change_90d": -0.01538305,
+                    "market_cap": 41690770769.49412,
+                    "market_cap_dominance": 4.9351,
+                    "fully_diluted_market_cap": 41690770769.496254,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 1.0306159107084003,
+                    "volume_24h": 3241274730.663964,
+                    "volume_change_24h": 30.777,
+                    "percent_change_1h": -0.16766977,
+                    "percent_change_24h": -0.71484693,
+                    "percent_change_7d": -1.57308852,
+                    "percent_change_30d": 0.00804367,
+                    "percent_change_60d": 0.00814994,
+                    "percent_change_90d": -0.01538305,
+                    "market_cap": 47472014555.8405,
+                    "market_cap_dominance": 4.9351,
+                    "fully_diluted_market_cap": 47472014555.84294,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1449,6 +1930,38 @@
                     "fully_diluted_market_cap": 3190361611.87,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.09525490499011664,
+                    "volume_24h": 17809700.257207375,
+                    "volume_change_24h": 33.6569,
+                    "percent_change_1h": -0.16385686,
+                    "percent_change_24h": -2.45421803,
+                    "percent_change_7d": -6.76017426,
+                    "percent_change_30d": -13.24855511,
+                    "percent_change_60d": -30.81971765,
+                    "percent_change_90d": -6.90769654,
+                    "market_cap": 2406425968.995476,
+                    "market_cap_dominance": 0.2849,
+                    "fully_diluted_market_cap": 2882700493.9496255,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.10846386748778479,
+                    "volume_24h": 20279364.814812798,
+                    "volume_change_24h": 33.6569,
+                    "percent_change_1h": -0.22367785,
+                    "percent_change_24h": -2.70110175,
+                    "percent_change_7d": -5.97732898,
+                    "percent_change_30d": -13.24855511,
+                    "percent_change_60d": -30.81971765,
+                    "percent_change_90d": -6.90769654,
+                    "market_cap": 2740124169.4311805,
+                    "market_cap_dominance": 0.2849,
+                    "fully_diluted_market_cap": 3282443506.8741655,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1524,6 +2037,38 @@
                     "fully_diluted_market_cap": 4706879976.14,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 17402.32946168936,
+                    "volume_24h": 75861323.64333121,
+                    "volume_change_24h": 32.71,
+                    "percent_change_1h": -0.049322,
+                    "percent_change_24h": -1.88045289,
+                    "percent_change_7d": -3.84703966,
+                    "percent_change_30d": -9.7614607,
+                    "percent_change_60d": -21.09546126,
+                    "percent_change_90d": -3.14522839,
+                    "market_cap": 4254981996.290835,
+                    "market_cap_dominance": 0.5039,
+                    "fully_diluted_market_cap": 4254981996.294974,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 19815.504061520944,
+                    "volume_24h": 86380985.37762403,
+                    "volume_change_24h": 32.71,
+                    "percent_change_1h": -0.10921161,
+                    "percent_change_24h": -2.12878879,
+                    "percent_change_7d": -3.03973558,
+                    "percent_change_30d": -9.7614607,
+                    "percent_change_60d": -21.09546126,
+                    "percent_change_90d": -3.14522839,
+                    "market_cap": 4845018778.366155,
+                    "market_cap_dominance": 0.5039,
+                    "fully_diluted_market_cap": 4845018778.370868,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1618,6 +2163,38 @@
                     "fully_diluted_market_cap": 0,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 11.597655042936845,
+                    "volume_24h": 161953530.57528225,
+                    "volume_change_24h": 16.2351,
+                    "percent_change_1h": 0.37507135,
+                    "percent_change_24h": -3.51873095,
+                    "percent_change_7d": -2.56382218,
+                    "percent_change_30d": -18.97854488,
+                    "percent_change_60d": 7.05337363,
+                    "percent_change_90d": 58.12431135,
+                    "market_cap": 3321223919.149372,
+                    "market_cap_dominance": 0.3931,
+                    "fully_diluted_market_cap": 0,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 13.20589758476647,
+                    "volume_24h": 184411566.8512705,
+                    "volume_change_24h": 16.2351,
+                    "percent_change_1h": 0.31492744,
+                    "percent_change_24h": -3.76292044,
+                    "percent_change_7d": -1.74574416,
+                    "percent_change_30d": -18.97854488,
+                    "percent_change_60d": 7.05337363,
+                    "percent_change_90d": 58.12431135,
+                    "market_cap": 3781776813.501157,
+                    "market_cap_dominance": 0.3931,
+                    "fully_diluted_market_cap": 0,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1707,6 +2284,38 @@
                     "fully_diluted_market_cap": 8365327529.64,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.7575221278230143,
+                    "volume_24h": 253872488.50781778,
+                    "volume_change_24h": 74.3215,
+                    "percent_change_1h": -0.09965521,
+                    "percent_change_24h": 0.90470786,
+                    "percent_change_7d": 1.80815802,
+                    "percent_change_30d": -5.97501626,
+                    "percent_change_60d": -10.1337852,
+                    "percent_change_90d": 45.98454055,
+                    "market_cap": 6616438758.9595785,
+                    "market_cap_dominance": 0.7832,
+                    "fully_diluted_market_cap": 7575221278.227658,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.8625674415378952,
+                    "volume_24h": 289076892.7349533,
+                    "volume_change_24h": 74.3215,
+                    "percent_change_1h": -0.15951467,
+                    "percent_change_24h": 0.64932286,
+                    "percent_change_7d": 2.66294336,
+                    "percent_change_30d": -5.97501626,
+                    "percent_change_60d": -10.1337852,
+                    "percent_change_90d": 45.98454055,
+                    "market_cap": 7533937878.23625,
+                    "market_cap_dominance": 0.7832,
+                    "fully_diluted_market_cap": 8625674415.376123,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1782,6 +2391,38 @@
                     "fully_diluted_market_cap": 4026604343.86,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 3.6938564287952835,
+                    "volume_24h": 1997352.81406257,
+                    "volume_change_24h": -20.2938,
+                    "percent_change_1h": -0.27796976,
+                    "percent_change_24h": -1.39066503,
+                    "percent_change_7d": -4.32572417,
+                    "percent_change_30d": -19.44977281,
+                    "percent_change_60d": -13.0265946,
+                    "percent_change_90d": -23.99181466,
+                    "market_cap": 3523769595.876312,
+                    "market_cap_dominance": 0.4171,
+                    "fully_diluted_market_cap": 3639333275.7540846,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 4.206082135647753,
+                    "volume_24h": 2274324.991173049,
+                    "volume_change_24h": -20.2938,
+                    "percent_change_1h": -0.33772237,
+                    "percent_change_24h": -1.64024055,
+                    "percent_change_7d": -3.52243915,
+                    "percent_change_30d": -19.44977281,
+                    "percent_change_60d": -13.0265946,
+                    "percent_change_90d": -23.99181466,
+                    "market_cap": 4012409424.420394,
+                    "market_cap_dominance": 0.4171,
+                    "fully_diluted_market_cap": 4143998277.1095448,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1866,6 +2507,38 @@
                     "fully_diluted_market_cap": 3297960931.71,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.29788788081528855,
+                    "volume_24h": 65671964.17198121,
+                    "volume_change_24h": 5.6234,
+                    "percent_change_1h": 0.0579348,
+                    "percent_change_24h": -3.24129029,
+                    "percent_change_7d": -8.88763111,
+                    "percent_change_30d": 2.54401306,
+                    "percent_change_60d": -10.07687673,
+                    "percent_change_90d": 8.81878609,
+                    "market_cap": 2089769103.9640398,
+                    "market_cap_dominance": 0.2474,
+                    "fully_diluted_market_cap": 2978878808.15345,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.3391958832389669,
+                    "volume_24h": 74778671.1912776,
+                    "volume_change_24h": 5.6234,
+                    "percent_change_1h": -0.00201909,
+                    "percent_change_24h": -3.48618197,
+                    "percent_change_7d": -8.12264804,
+                    "percent_change_30d": 2.54401306,
+                    "percent_change_60d": -10.07687673,
+                    "percent_change_90d": 8.81878609,
+                    "market_cap": 2379556613.866135,
+                    "market_cap_dominance": 0.2474,
+                    "fully_diluted_market_cap": 3391958832.3903112,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -1951,6 +2624,38 @@
                     "fully_diluted_market_cap": 8420167333.96,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 21.643634076164158,
+                    "volume_24h": 39802867.36819978,
+                    "volume_change_24h": 63.8025,
+                    "percent_change_1h": 0.21513291,
+                    "percent_change_24h": -1.67598909,
+                    "percent_change_7d": -5.35774827,
+                    "percent_change_30d": -12.12747453,
+                    "percent_change_60d": -24.12644813,
+                    "percent_change_90d": -3.16236707,
+                    "market_cap": 2899711343.834608,
+                    "market_cap_dominance": 0.3434,
+                    "fully_diluted_market_cap": 7622238937.2556715,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 24.64494882058564,
+                    "volume_24h": 45322316.28708496,
+                    "volume_change_24h": 63.8025,
+                    "percent_change_1h": 0.15508484,
+                    "percent_change_24h": -1.92484247,
+                    "percent_change_7d": -4.56312816,
+                    "percent_change_30d": -12.12747453,
+                    "percent_change_60d": -24.12644813,
+                    "percent_change_90d": -3.16236707,
+                    "market_cap": 3301813245.03065,
+                    "market_cap_dominance": 0.3434,
+                    "fully_diluted_market_cap": 8679211995.818089,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2026,6 +2731,38 @@
                     "fully_diluted_market_cap": 21625523806.05,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.9051293088746382,
+                    "volume_24h": 5134468591.806142,
+                    "volume_change_24h": 68.5988,
+                    "percent_change_1h": -0.05524047,
+                    "percent_change_24h": -0.51812628,
+                    "percent_change_7d": -2.45505391,
+                    "percent_change_30d": -0.0036345,
+                    "percent_change_60d": 0.00964132,
+                    "percent_change_90d": -0.00492277,
+                    "market_cap": 19576227758.26031,
+                    "market_cap_dominance": 2.3167,
+                    "fully_diluted_market_cap": 19576227758.256344,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 1.0306432558751195,
+                    "volume_24h": 5846463455.290172,
+                    "volume_change_24h": 68.5988,
+                    "percent_change_1h": -0.11512654,
+                    "percent_change_24h": -0.76991016,
+                    "percent_change_7d": -1.63606267,
+                    "percent_change_30d": -0.0036345,
+                    "percent_change_60d": 0.00964132,
+                    "percent_change_90d": -0.00492277,
+                    "market_cap": 22290856032.064167,
+                    "market_cap_dominance": 2.3167,
+                    "fully_diluted_market_cap": 22290856032.059647,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2131,6 +2868,38 @@
                     "fully_diluted_market_cap": 6739316085.62,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.9050021033810218,
+                    "volume_24h": 205948205.70983055,
+                    "volume_change_24h": 39.1152,
+                    "percent_change_1h": -0.09478426,
+                    "percent_change_24h": -0.46404919,
+                    "percent_change_7d": -2.40096426,
+                    "percent_change_30d": 0.01459062,
+                    "percent_change_60d": 0.04552717,
+                    "percent_change_90d": -0.02090843,
+                    "market_cap": 6117713281.741643,
+                    "market_cap_dominance": 0.7242,
+                    "fully_diluted_market_cap": 6117713281.739894,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 1.03049841084268,
+                    "volume_24h": 234506967.33964324,
+                    "volume_change_24h": 39.1152,
+                    "percent_change_1h": -0.15464663,
+                    "percent_change_24h": -0.71596993,
+                    "percent_change_7d": -1.58151887,
+                    "percent_change_30d": 0.01459062,
+                    "percent_change_60d": 0.04552717,
+                    "percent_change_90d": -0.02090843,
+                    "market_cap": 6966054323.270121,
+                    "market_cap_dominance": 0.7242,
+                    "fully_diluted_market_cap": 6966054323.268128,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2210,6 +2979,38 @@
                     "fully_diluted_market_cap": 16630752890.17,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 29.41040704875563,
+                    "volume_24h": 542749524.5564399,
+                    "volume_change_24h": 48.6719,
+                    "percent_change_1h": -0.27982726,
+                    "percent_change_24h": -2.08148447,
+                    "percent_change_7d": -4.05126867,
+                    "percent_change_30d": -6.17900838,
+                    "percent_change_60d": -25.87394106,
+                    "percent_change_90d": -4.44960206,
+                    "market_cap": 10508086768.036705,
+                    "market_cap_dominance": 1.2436,
+                    "fully_diluted_market_cap": 15046862639.09046,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 33.48873733304362,
+                    "volume_24h": 618012400.6911342,
+                    "volume_change_24h": 48.6719,
+                    "percent_change_1h": -0.33957876,
+                    "percent_change_24h": -2.32931157,
+                    "percent_change_7d": -3.24567931,
+                    "percent_change_30d": -6.17900838,
+                    "percent_change_60d": -25.87394106,
+                    "percent_change_90d": -4.44960206,
+                    "market_cap": 11965239279.559772,
+                    "market_cap_dominance": 1.2436,
+                    "fully_diluted_market_cap": 17133405524.498114,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2294,6 +3095,38 @@
                     "fully_diluted_market_cap": 11950080353.55,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 15.02506081077225,
+                    "volume_24h": 123760840.17940284,
+                    "volume_change_24h": 56.1393,
+                    "percent_change_1h": -0.18890548,
+                    "percent_change_24h": -2.51964805,
+                    "percent_change_7d": -5.01991055,
+                    "percent_change_30d": -17.94633691,
+                    "percent_change_60d": -42.67271326,
+                    "percent_change_90d": -7.270293,
+                    "market_cap": 4449575171.86612,
+                    "market_cap_dominance": 0.5267,
+                    "fully_diluted_market_cap": 10818043783.756458,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 17.108580444698354,
+                    "volume_24h": 140922710.18262473,
+                    "volume_change_24h": 56.1393,
+                    "percent_change_1h": -0.24871146,
+                    "percent_change_24h": -2.76636618,
+                    "percent_change_7d": -4.22245394,
+                    "percent_change_30d": -17.94633691,
+                    "percent_change_60d": -42.67271326,
+                    "percent_change_90d": -7.270293,
+                    "market_cap": 5066596117.735869,
+                    "market_cap_dominance": 0.5267,
+                    "fully_diluted_market_cap": 12318177920.183317,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2354,6 +3187,38 @@
                     "fully_diluted_market_cap": 6337157952.26,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 0.000009714385090143611,
+                    "volume_24h": 126807181.69179225,
+                    "volume_change_24h": 40.023,
+                    "percent_change_1h": -0.27764778,
+                    "percent_change_24h": -3.41703103,
+                    "percent_change_7d": -5.60089666,
+                    "percent_change_30d": -18.33276994,
+                    "percent_change_60d": -14.33666716,
+                    "percent_change_90d": 3.37701684,
+                    "market_cap": 5333812129.861312,
+                    "market_cap_dominance": 0.6317,
+                    "fully_diluted_market_cap": 5728913186.536326,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 0.000011061475283104566,
+                    "volume_24h": 144391486.74753365,
+                    "volume_change_24h": 40.023,
+                    "percent_change_1h": -0.33740058,
+                    "percent_change_24h": -3.66147792,
+                    "percent_change_7d": -4.80831804,
+                    "percent_change_30d": -18.33276994,
+                    "percent_change_60d": -14.33666716,
+                    "percent_change_90d": 3.37701684,
+                    "market_cap": 6073449888.150563,
+                    "market_cap_dominance": 0.6317,
+                    "fully_diluted_market_cap": 6523339462.445231,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2448,6 +3313,38 @@
                     "fully_diluted_market_cap": 3444184581.13,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 3.1080103427974115,
+                    "volume_24h": 88974044.63405813,
+                    "volume_change_24h": 23.1629,
+                    "percent_change_1h": -0.1665985,
+                    "percent_change_24h": -2.88254758,
+                    "percent_change_7d": -5.10435989,
+                    "percent_change_30d": -26.85857627,
+                    "percent_change_60d": -41.2680722,
+                    "percent_change_90d": 4.16830703,
+                    "market_cap": 2500491135.3026958,
+                    "market_cap_dominance": 0.296,
+                    "fully_diluted_market_cap": 3108010342.7984405,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 3.5389969892555158,
+                    "volume_24h": 101312042.54565194,
+                    "volume_change_24h": 23.1629,
+                    "percent_change_1h": -0.22641784,
+                    "percent_change_24h": -3.12834722,
+                    "percent_change_7d": -4.30761232,
+                    "percent_change_30d": -26.85857627,
+                    "percent_change_60d": -41.2680722,
+                    "percent_change_90d": 4.16830703,
+                    "market_cap": 2847233317.612278,
+                    "market_cap_dominance": 0.296,
+                    "fully_diluted_market_cap": 3538996989.2566876,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2602,6 +3499,38 @@
                     "fully_diluted_market_cap": 7892829660.47,
                     "tvl": null,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 5.744318916929413,
+                    "volume_24h": 170946915.96219513,
+                    "volume_change_24h": 27.8295,
+                    "percent_change_1h": 0.14282628,
+                    "percent_change_24h": -2.58359732,
+                    "percent_change_7d": -2.63461895,
+                    "percent_change_30d": -17.27504001,
+                    "percent_change_60d": -31.98325202,
+                    "percent_change_90d": -2.38092932,
+                    "market_cap": 6463870624.054456,
+                    "market_cap_dominance": 0.7655,
+                    "fully_diluted_market_cap": 7128049860.74587,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 6.5408814997826425,
+                    "volume_24h": 194652061.6685601,
+                    "volume_change_24h": 27.8295,
+                    "percent_change_1h": 0.08282153,
+                    "percent_change_24h": -2.83015359,
+                    "percent_change_7d": -1.81713534,
+                    "percent_change_30d": -17.27504001,
+                    "percent_change_60d": -31.98325202,
+                    "percent_change_90d": -2.38092932,
+                    "market_cap": 7360213176.406726,
+                    "market_cap_dominance": 0.7655,
+                    "fully_diluted_market_cap": 8116493902.571012,
+                    "tvl": null,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         },
@@ -2732,6 +3661,38 @@
                     "fully_diluted_market_cap": 6361489467.2,
                     "tvl": 5224025936.68093,
                     "last_updated": "2022-10-10T20:36:00.000Z"
+                },
+                "GBP": {
+                    "price": 5.741839168826443,
+                    "volume_24h": 64962181.59977135,
+                    "volume_change_24h": 7.271,
+                    "percent_change_1h": -0.1172277,
+                    "percent_change_24h": -4.36908971,
+                    "percent_change_7d": -4.09948876,
+                    "percent_change_30d": -2.79390796,
+                    "percent_change_60d": -31.53594105,
+                    "percent_change_90d": 10.87776979,
+                    "market_cap": 4376483365.946345,
+                    "market_cap_dominance": 0.5181,
+                    "fully_diluted_market_cap": 5741839168.82261,
+                    "tvl": 4728119602.5637,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
+                },
+                "EUR": {
+                    "price": 6.538057885925997,
+                    "volume_24h": 73970463.33189967,
+                    "volume_change_24h": 7.271,
+                    "percent_change_1h": -0.17707663,
+                    "percent_change_24h": -4.61112698,
+                    "percent_change_7d": -3.29430425,
+                    "percent_change_30d": -2.79390796,
+                    "percent_change_60d": -31.53594105,
+                    "percent_change_90d": 10.87776979,
+                    "market_cap": 4983368698.081754,
+                    "market_cap_dominance": 0.5181,
+                    "fully_diluted_market_cap": 6538057885.921632,
+                    "tvl": 5383766201.772775,
+                    "last_updated": "2022-10-10T17:39:16.000Z"
                 }
             }
         }
